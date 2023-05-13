@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajvivek</h1>
 <h3 align="center">Engineer with an artistic side.</h3>
+<br>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+Github+page+!" alt="Typing SVG" /></a>
+  </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
