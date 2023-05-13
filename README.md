@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+Github+page+!" alt="Typing SVG" /></a>
   </p>
   <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://s11.gifyu.com/images/animation_640_lhliaa67.gif">
 
 
 - 🌱 I’m currently learning **React js**
